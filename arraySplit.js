@@ -8,3 +8,7 @@ const removed=nums.splice(2,3,100,200);
 //we can join array like a string and output will not be in array 
 const new1=nums.join(',');
 console.log(new1);
+
+//we can slice array 
+// we can delete from array 
+// we can join array 
